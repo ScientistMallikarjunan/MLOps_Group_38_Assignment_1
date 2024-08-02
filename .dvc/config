@@ -1,2 +1,5 @@
 [core]
     autostage = true
+    remote = myremote
+['remote "myremote"']
+    url = C:\Users\malli\Documents\BITS\SEM_3\MLOPS\DVC_Storage
