@@ -1,0 +1,6 @@
+outs:
+- md5: 080cc9c76b14563ef995c282bc96f16a.dir
+  size: 264309130
+  nfiles: 13
+  hash: md5
+  path: pubmed-rct
